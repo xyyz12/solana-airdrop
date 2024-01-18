@@ -24,6 +24,9 @@ GeG1K7bSHf7GY9hPeTEVoceYgLTh7A6nSRus9agYhp9J,0.25
 ## Important
 **Make sure you are sending a minimum of 0.001 SOL to a wallet in case it's a new account and requires rent exemption.**  (钱包发送金额时，不能低于这位数，无需打开代理)
 
+![image](https://github.com/xyyz12/solana-airdrop/assets/91812763/195ee955-b164-4f0b-bd83-c12f1cc0d0d0)
+
+
 ## Get Our NFT
 - If you found this useful and would like to see more open source development, come chat with me in the 1% Club Chat in the Foxbyte Server: https://discord.gg/foxbyte and get Foxbyte's NFTs here: https://magiceden.io/marketplace/foxbyte.
 - Follow me on X/twitter: https://x.com/VmpyreSol
